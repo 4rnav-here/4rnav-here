@@ -11,9 +11,9 @@
 
 - 📫 How to reach me **arnavtrivediofficial@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/4rnav-here/MyResume](https://github.com/4rnav-here/MyResume)
+- 📄 Know about my experiences [MyResume](https://github.com/4rnav-here/MyResume)
 
-- You can also check my portfolio website at [Portfolio](https://portfolio-4rnav-heres-projects.vercel.app/)
+- 🌐 You can also check my portfolio website at [Portfolio](https://portfolio-4rnav-heres-projects.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
