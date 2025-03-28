@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [MyResume](https://github.com/4rnav-here/MyResume)
 
-- 🌐 You can also check my portfolio website at [Portfolio](https://portfolio-4rnav-heres-projects.vercel.app/)
+- 🌐 You can also check my portfolio website at [Portfolio](Its still a work in progress!!)(https://portfolio-4rnav-heres-projects.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
