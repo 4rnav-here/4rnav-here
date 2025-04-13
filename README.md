@@ -26,7 +26,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4rnav-here&layout=compact&exclude_repo=Machine_Learning-Exercises" />
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=4rnav-here&show_icons=true&locale=en
-" alt="4rnav-here" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=4rnav-here&show_icons=true&locale=en
+" alt="4rnav-here" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=4rnav-here&" alt="4rnav-here" /></p>
