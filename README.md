@@ -5,7 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=4rnav-here" alt="4rnav-here" /></a> </p>
 
-- 🔭 I’m currently working on **Creating cross platform file sharing application**
+- 🔭 I’m currently working on **a Generative AI project** that:
+  - 🧩 Uses **LangGraph** to structure conversational flows with memory and tools  
+  - 📊 Parses **Excel files**, eliminates irrelevant data, and stores it in a queryable format  
+  - 🤖 Scales into a **chatbot** capable of answering domain-specific questions over the parsed data  
+  - 🐍 Integrates **Python libraries** like Pandas, LangChain, and OpenAI embeddings  
 
 - 🌱 I’m currently learning **Next.js framework and firebase services**
 
