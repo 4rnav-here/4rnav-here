@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Arnav</h1>
+<h2 align="center">A passionate Full Stack Developer from India</h2>
+
 # 💫 About Me:
 🧠 I’m currently working on: Strengthening my DSA skills and building a website that acts as an AI teacher. It uses VAPI API for an audio AI that teaches topics in a conversational style — basically, your personal chatbot professor!<br><br>🤝 I’m looking to collaborate on: Projects with real-world impact — things that help me learn how products evolve from an idea to a fully deployed solution.<br><br>🧩 I’m looking for help with: Getting a job… preferably one that doesn’t ask for 10 years of experience for an entry-level role. 😅<br><br>💬 Ask me about: Why I don’t like React Hooks — it’s a long story involving state, re-renders, and mild emotional trauma. 🌀<br><br>🌱 I’m currently learning: Advanced data structures, algorithms, and scalable web application design.<br><br>⚡ Fun fact: Coffee makes my code compile 20% faster (scientifically unproven, emotionally true).<br><br>
 📫 How to reach me **arnavtrivediofficial@gmail.com**<br><br>📄 Know about my experiences [MyResume](https://github.com/4rnav-here/MyResume)<br><br>🌐 You can also check my portfolio website at [Portfolio](https://portfolio-4rnav-heres-projects.vercel.app/)....Its still a work in progress!! 
