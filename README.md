@@ -1,11 +1,11 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Arnav&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Builder%20%7C%20CS%20Student&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Arnav&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
 </div>
 
 <!-- Typing SVG -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+things+that+actually+work.;Full+Stack+%7C+Backend+%7C+Cloud-Native;AI+%2B+Web+%3D+my+happy+place.;B.Tech+CSE+%E2%80%94+India" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+things+that+actually+work.;Full+Stack+%7C+Backend+%7C+Cloud-Native;AI+%2B+Web+%3D+my+happy+place.;Turning+caffeine+into+code+since+day+one." alt="Typing SVG" />
 </div>
 
 <br/>
@@ -24,17 +24,29 @@
 
 ## `$ whoami`
 
+<img align="right" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
+
 ```ts
 const arnav = {
   role        : "Full Stack Developer",
-  education   : "B.Tech CSE (ongoing)",
+  degree      : "B.Tech CSE ✅  (graduated)",
   based_in    : "India 🇮🇳",
-  currently   : ["building real-world apps", "grinding DSA", "exploring scalable systems"],
-  looking_for : ["impactful projects", "collaborative products", "entry-level SWE roles"],
-  fun_fact    : "I have strong feelings about React Hooks. Strong. Feelings.",
+  currently   : [
+    "building real-world apps",
+    "grinding DSA",
+    "exploring scalable systems",
+  ],
+  looking_for : [
+    "impactful projects",
+    "collaborative product builds",
+    "software engineering roles",
+  ],
+  fun_fact    : "I have strong feelings about React Hooks.",
   fuel        : "☕  Coffee + curiosity",
 };
 ```
+
+<br clear="right"/>
 
 ---
 
@@ -132,19 +144,38 @@ const arnav = {
 
 ## 🎯 What I'm Working On
 
+<img align="left" width="280" src="https://media.giphy.com/media/l3vR85wkOOnNOlRb2/giphy.gif" alt="working gif"/>
+
 ```
 ▸  Strengthening DSA & system design fundamentals
 ▸  Building production-grade full-stack applications
 ▸  Exploring AI-integrated product architectures
 ▸  Contributing to open source
-▸  Hunting for collaborative builds & early-stage opportunities
+▸  Hunting for collaborative builds & SWE roles
 ```
+
+> *"First, solve the problem. Then, write the code."*
+> — John Johnson (and every senior dev ever)
+
+<br clear="left"/>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/4rnav-here/4rnav-here/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</div>
 
 ---
 
 ## 🌐 Let's Connect
 
 <div align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="waving"/>
+  <br/><br/>
+  <i>I love connecting with new people — drop a message anytime!</i>
+  <br/><br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-4rnav--here-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/4rnav-here)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arnav%20Trivedi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arnavtrivedi2004)
