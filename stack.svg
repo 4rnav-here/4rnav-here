@@ -1,0 +1,186 @@
+<svg width="900" height="420" viewBox="0 0 900 420" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="grid" width="16" height="16" patternUnits="userSpaceOnUse">
+      <path d="M 16 0 L 0 0 0 16" fill="none" stroke="#1a2a1a" stroke-width="0.6"/>
+    </pattern>
+  </defs>
+
+  <!-- bg -->
+  <rect width="900" height="420" fill="#080c08"/>
+  <rect width="900" height="420" fill="url(#grid)" opacity="0.6"/>
+  <rect x="0" y="0" width="3" height="420" fill="#39ff6e"/>
+
+  <!-- section label -->
+  <rect x="0" y="0" width="900" height="40" fill="#0d130d"/>
+  <rect x="0" y="40" width="900" height="1" fill="#1f2e1f"/>
+  <text x="16" y="26" font-family="'IBM Plex Mono', monospace" font-size="11" fill="#39ff6e" letter-spacing="1">▸</text>
+  <text x="30" y="26" font-family="'IBM Plex Mono', monospace" font-size="13" font-weight="600" fill="#b8d4b8" letter-spacing="3">STACK</text>
+  <text x="884" y="26" text-anchor="end" font-family="'IBM Plex Mono', monospace" font-size="9" fill="#2a3d2a" letter-spacing="2">22 tools · 3 categories</text>
+
+  <!-- ── LANGUAGES row label ── -->
+  <text x="20" y="72" font-family="'IBM Plex Mono', monospace" font-size="9" fill="#2a4a2a" letter-spacing="3">LANGUAGES</text>
+  <line x1="110" y1="68" x2="880" y2="68" stroke="#1f2e1f" stroke-width="1"/>
+
+  <!-- lang cards — 5 cols, y=80 -->
+  <!-- TypeScript -->
+  <rect x="20" y="78" width="158" height="52" fill="#0d130d" rx="0"/>
+  <rect x="20" y="78" width="158" height="52" fill="none" stroke="#1f2e1f" stroke-width="1.5" rx="0"/>
+  <rect x="20" y="78" width="3" height="52" fill="#00e5cc"/>
+  <text x="36" y="100" font-family="'IBM Plex Mono', monospace" font-size="15" font-weight="600" fill="#00e5cc" letter-spacing="1">TypeScript</text>
+  <text x="36" y="118" font-family="'IBM Plex Mono', monospace" font-size="10" fill="#2a5a4a" letter-spacing="1">primary · .ts</text>
+
+  <!-- JavaScript -->
+  <rect x="188" y="78" width="158" height="52" fill="#0d130d" rx="0"/>
+  <rect x="188" y="78" width="158" height="52" fill="none" stroke="#1f2e1f" stroke-width="1.5" rx="0"/>
+  <rect x="188" y="78" width="3" height="52" fill="#39ff6e"/>
+  <text x="204" y="100" font-family="'IBM Plex Mono', monospace" font-size="15" font-weight="600" fill="#39ff6e" letter-spacing="1">JavaScript</text>
+  <text x="204" y="118" font-family="'IBM Plex Mono', monospace" font-size="10" fill="#2a4a2a" letter-spacing="1">primary · .js</text>
+
+  <!-- Python -->
+  <rect x="356" y="78" width="158" height="52" fill="#0d130d" rx="0"/>
+  <rect x="356" y="78" width="158" height="52" fill="none" stroke="#1f2e1f" stroke-width="1.5" rx="0"/>
+  <rect x="356" y="78" width="3" height="52" fill="#39ff6e"/>
+  <text x="372" y="100" font-family="'IBM Plex Mono', monospace" font-size="15" font-weight="600" fill="#39ff6e" letter-spacing="1">Python</text>
+  <text x="372" y="118" font-family="'IBM Plex Mono', monospace" font-size="10" fill="#2a4a2a" letter-spacing="1">primary · .py</text>
+
+  <!-- C++ -->
+  <rect x="524" y="78" width="158" height="52" fill="#0d130d" rx="0"/>
+  <rect x="524" y="78" width="158" height="52" fill="none" stroke="#1a2a1a" stroke-width="1.5" rx="0"/>
+  <rect x="524" y="78" width="3" height="52" fill="#2a4a2a"/>
+  <text x="540" y="100" font-family="'IBM Plex Mono', monospace" font-size="15" font-weight="600" fill="#4a6a4a" letter-spacing="1">C++</text>
+  <text x="540" y="118" font-family="'IBM Plex Mono', monospace" font-size="10" fill="#2a3a2a" letter-spacing="1">secondary · .cpp</text>
+
+  <!-- Go -->
+  <rect x="692" y="78" width="188" height="52" fill="#0d130d" rx="0"/>
+  <rect x="692" y="78" width="188" height="52" fill="none" stroke="#1a2a1a" stroke-width="1.5" rx="0"/>
+  <rect x="692" y="78" width="3" height="52" fill="#c8a800"/>
+  <text x="708" y="100" font-family="'IBM Plex Mono', monospace" font-size="15" font-weight="600" fill="#c8a800" letter-spacing="1">Go</text>
+  <text x="708" y="118" font-family="'IBM Plex Mono', monospace" font-size="10" fill="#3a3000" letter-spacing="1">learning · .go</text>
+
+  <!-- ── FRONTEND row label ── -->
+  <text x="20" y="158" font-family="'IBM Plex Mono', monospace" font-size="9" fill="#2a4a2a" letter-spacing="3">FRONTEND &amp; BACKEND</text>
+  <line x1="178" y1="154" x2="880" y2="154" stroke="#1f2e1f" stroke-width="1"/>
+
+  <!-- row 2: 4 per row -->
+  <!-- Next.js -->
+  <rect x="20" y="166" width="210" height="52" fill="#0d130d" rx="0"/>
+  <rect x="20" y="166" width="210" height="52" fill="none" stroke="#1f2e1f" stroke-width="1.5"/>
+  <rect x="20" y="166" width="3" height="52" fill="#00e5cc"/>
+  <text x="36" y="188" font-family="'IBM Plex Mono', monospace" font-size="15" font-weight="600" fill="#00e5cc" letter-spacing="1">Next.js</text>
+  <text x="36" y="206" font-family="'IBM Plex Mono', monospace" font-size="10" fill="#2a5a4a" letter-spacing="1">framework · SSR/SSG</text>
+
+  <!-- React -->
+  <rect x="240" y="166" width="210" height="52" fill="#0d130d" rx="0"/>
+  <rect x="240" y="166" width="210" height="52" fill="none" stroke="#1f2e1f" stroke-width="1.5"/>
+  <rect x="240" y="166" width="3" height="52" fill="#39ff6e"/>
+  <text x="256" y="188" font-family="'IBM Plex Mono', monospace" font-size="15" font-weight="600" fill="#39ff6e" letter-spacing="1">React</text>
+  <text x="256" y="206" font-family="'IBM Plex Mono', monospace" font-size="10" fill="#2a4a2a" letter-spacing="1">library · UI</text>
+
+  <!-- Node.js -->
+  <rect x="460" y="166" width="210" height="52" fill="#0d130d" rx="0"/>
+  <rect x="460" y="166" width="210" height="52" fill="none" stroke="#1f2e1f" stroke-width="1.5"/>
+  <rect x="460" y="166" width="3" height="52" fill="#39ff6e"/>
+  <text x="476" y="188" font-family="'IBM Plex Mono', monospace" font-size="15" font-weight="600" fill="#39ff6e" letter-spacing="1">Node.js</text>
+  <text x="476" y="206" font-family="'IBM Plex Mono', monospace" font-size="10" fill="#2a4a2a" letter-spacing="1">runtime · backend</text>
+
+  <!-- NestJS -->
+  <rect x="680" y="166" width="200" height="52" fill="#0d130d" rx="0"/>
+  <rect x="680" y="166" width="200" height="52" fill="none" stroke="#1f2e1f" stroke-width="1.5"/>
+  <rect x="680" y="166" width="3" height="52" fill="#39ff6e"/>
+  <text x="696" y="188" font-family="'IBM Plex Mono', monospace" font-size="15" font-weight="600" fill="#39ff6e" letter-spacing="1">NestJS</text>
+  <text x="696" y="206" font-family="'IBM Plex Mono', monospace" font-size="10" fill="#2a4a2a" letter-spacing="1">framework · API</text>
+
+  <!-- row 2b -->
+  <!-- FastAPI -->
+  <rect x="20" y="226" width="210" height="52" fill="#0d130d" rx="0"/>
+  <rect x="20" y="226" width="210" height="52" fill="none" stroke="#1f2e1f" stroke-width="1.5"/>
+  <rect x="20" y="226" width="3" height="52" fill="#39ff6e"/>
+  <text x="36" y="248" font-family="'IBM Plex Mono', monospace" font-size="15" font-weight="600" fill="#39ff6e" letter-spacing="1">FastAPI</text>
+  <text x="36" y="266" font-family="'IBM Plex Mono', monospace" font-size="10" fill="#2a4a2a" letter-spacing="1">framework · Python</text>
+
+  <!-- Tailwind -->
+  <rect x="240" y="226" width="210" height="52" fill="#0d130d" rx="0"/>
+  <rect x="240" y="226" width="210" height="52" fill="none" stroke="#1f2e1f" stroke-width="1.5"/>
+  <rect x="240" y="226" width="3" height="52" fill="#00e5cc"/>
+  <text x="256" y="248" font-family="'IBM Plex Mono', monospace" font-size="15" font-weight="600" fill="#00e5cc" letter-spacing="1">Tailwind</text>
+  <text x="256" y="266" font-family="'IBM Plex Mono', monospace" font-size="10" fill="#2a5a4a" letter-spacing="1">CSS · utility-first</text>
+
+  <!-- Socket.io -->
+  <rect x="460" y="226" width="210" height="52" fill="#0d130d" rx="0"/>
+  <rect x="460" y="226" width="210" height="52" fill="none" stroke="#1f2e1f" stroke-width="1.5"/>
+  <rect x="460" y="226" width="3" height="52" fill="#39ff6e"/>
+  <text x="476" y="248" font-family="'IBM Plex Mono', monospace" font-size="15" font-weight="600" fill="#39ff6e" letter-spacing="1">Socket.io</text>
+  <text x="476" y="266" font-family="'IBM Plex Mono', monospace" font-size="10" fill="#2a4a2a" letter-spacing="1">realtime · WS</text>
+
+  <!-- Three.js -->
+  <rect x="680" y="226" width="200" height="52" fill="#0d130d" rx="0"/>
+  <rect x="680" y="226" width="200" height="52" fill="none" stroke="#1a2a1a" stroke-width="1.5"/>
+  <rect x="680" y="226" width="3" height="52" fill="#2a4a2a"/>
+  <text x="696" y="248" font-family="'IBM Plex Mono', monospace" font-size="15" font-weight="600" fill="#4a6a4a" letter-spacing="1">Three.js</text>
+  <text x="696" y="266" font-family="'IBM Plex Mono', monospace" font-size="10" fill="#2a3a2a" letter-spacing="1">3D · WebGL</text>
+
+  <!-- ── DATA & INFRA row label ── -->
+  <text x="20" y="304" font-family="'IBM Plex Mono', monospace" font-size="9" fill="#2a4a2a" letter-spacing="3">DATA &amp; INFRA</text>
+  <line x1="122" y1="300" x2="880" y2="300" stroke="#1f2e1f" stroke-width="1"/>
+
+  <!-- row 3: 4 per row -->
+  <!-- PostgreSQL -->
+  <rect x="20" y="312" width="210" height="52" fill="#0d130d" rx="0"/>
+  <rect x="20" y="312" width="210" height="52" fill="none" stroke="#1f2e1f" stroke-width="1.5"/>
+  <rect x="20" y="312" width="3" height="52" fill="#00e5cc"/>
+  <text x="36" y="334" font-family="'IBM Plex Mono', monospace" font-size="15" font-weight="600" fill="#00e5cc" letter-spacing="1">PostgreSQL</text>
+  <text x="36" y="352" font-family="'IBM Plex Mono', monospace" font-size="10" fill="#2a5a4a" letter-spacing="1">DB · relational</text>
+
+  <!-- MongoDB -->
+  <rect x="240" y="312" width="210" height="52" fill="#0d130d" rx="0"/>
+  <rect x="240" y="312" width="210" height="52" fill="none" stroke="#1f2e1f" stroke-width="1.5"/>
+  <rect x="240" y="312" width="3" height="52" fill="#39ff6e"/>
+  <text x="256" y="334" font-family="'IBM Plex Mono', monospace" font-size="15" font-weight="600" fill="#39ff6e" letter-spacing="1">MongoDB</text>
+  <text x="256" y="352" font-family="'IBM Plex Mono', monospace" font-size="10" fill="#2a4a2a" letter-spacing="1">DB · document</text>
+
+  <!-- Redis -->
+  <rect x="460" y="312" width="210" height="52" fill="#0d130d" rx="0"/>
+  <rect x="460" y="312" width="210" height="52" fill="none" stroke="#1f2e1f" stroke-width="1.5"/>
+  <rect x="460" y="312" width="3" height="52" fill="#39ff6e"/>
+  <text x="476" y="334" font-family="'IBM Plex Mono', monospace" font-size="15" font-weight="600" fill="#39ff6e" letter-spacing="1">Redis</text>
+  <text x="476" y="352" font-family="'IBM Plex Mono', monospace" font-size="10" fill="#2a4a2a" letter-spacing="1">cache · in-memory</text>
+
+  <!-- Docker -->
+  <rect x="680" y="312" width="200" height="52" fill="#0d130d" rx="0"/>
+  <rect x="680" y="312" width="200" height="52" fill="none" stroke="#1f2e1f" stroke-width="1.5"/>
+  <rect x="680" y="312" width="3" height="52" fill="#39ff6e"/>
+  <text x="696" y="334" font-family="'IBM Plex Mono', monospace" font-size="15" font-weight="600" fill="#39ff6e" letter-spacing="1">Docker</text>
+  <text x="696" y="352" font-family="'IBM Plex Mono', monospace" font-size="10" fill="#2a4a2a" letter-spacing="1">containers · devops</text>
+
+  <!-- row 3b — AWS / K8s / Prisma / GH Actions -->
+  <!-- AWS -->
+  <rect x="20" y="372" width="210" height="40" fill="#111811" rx="0"/>
+  <rect x="20" y="372" width="210" height="40" fill="none" stroke="#1a2a1a" stroke-width="1"/>
+  <rect x="20" y="372" width="3" height="40" fill="#c8a800"/>
+  <text x="36" y="397" font-family="'IBM Plex Mono', monospace" font-size="13" font-weight="600" fill="#c8a800" letter-spacing="1">AWS</text>
+  <text x="80" y="397" font-family="'IBM Plex Mono', monospace" font-size="10" fill="#3a3000" letter-spacing="1">· cloud</text>
+
+  <!-- Kubernetes -->
+  <rect x="240" y="372" width="210" height="40" fill="#111811" rx="0"/>
+  <rect x="240" y="372" width="210" height="40" fill="none" stroke="#1a2a1a" stroke-width="1"/>
+  <rect x="240" y="372" width="3" height="40" fill="#2a4a2a"/>
+  <text x="256" y="397" font-family="'IBM Plex Mono', monospace" font-size="13" font-weight="600" fill="#4a6a4a" letter-spacing="1">Kubernetes</text>
+  <text x="360" y="397" font-family="'IBM Plex Mono', monospace" font-size="10" fill="#2a3a2a" letter-spacing="1">· k8s</text>
+
+  <!-- Prisma -->
+  <rect x="460" y="372" width="210" height="40" fill="#111811" rx="0"/>
+  <rect x="460" y="372" width="210" height="40" fill="none" stroke="#1a2a1a" stroke-width="1"/>
+  <rect x="460" y="372" width="3" height="40" fill="#39ff6e"/>
+  <text x="476" y="397" font-family="'IBM Plex Mono', monospace" font-size="13" font-weight="600" fill="#39ff6e" letter-spacing="1">Prisma</text>
+  <text x="534" y="397" font-family="'IBM Plex Mono', monospace" font-size="10" fill="#2a4a2a" letter-spacing="1">· ORM</text>
+
+  <!-- GitHub Actions -->
+  <rect x="680" y="372" width="200" height="40" fill="#111811" rx="0"/>
+  <rect x="680" y="372" width="200" height="40" fill="none" stroke="#1a2a1a" stroke-width="1"/>
+  <rect x="680" y="372" width="3" height="40" fill="#39ff6e"/>
+  <text x="696" y="397" font-family="'IBM Plex Mono', monospace" font-size="13" font-weight="600" fill="#39ff6e" letter-spacing="1">GH Actions</text>
+  <text x="802" y="397" font-family="'IBM Plex Mono', monospace" font-size="10" fill="#2a4a2a" letter-spacing="1">· CI/CD</text>
+
+  <!-- bottom border -->
+  <rect x="0" y="418" width="900" height="2" fill="#1f2e1f"/>
+</svg>

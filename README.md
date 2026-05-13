@@ -33,38 +33,9 @@ const arnav = {
 
 ---
 
-## `▸ stack`
-
-**Languages**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-0d130d?style=flat-square&logo=typescript&logoColor=00e5cc)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d130d?style=flat-square&logo=javascript&logoColor=39ff6e)
-![Python](https://img.shields.io/badge/Python-0d130d?style=flat-square&logo=python&logoColor=39ff6e)
-![C++](https://img.shields.io/badge/C++-0d130d?style=flat-square&logo=cplusplus&logoColor=4a6a4a)
-![Java](https://img.shields.io/badge/Java-0d130d?style=flat-square&logo=openjdk&logoColor=4a6a4a)
-![Go](https://img.shields.io/badge/Go_(learning)-0d130d?style=flat-square&logo=go&logoColor=c8a800)
-
-**Frontend & Backend**
-
-![Next.js](https://img.shields.io/badge/Next.js-0d130d?style=flat-square&logo=nextdotjs&logoColor=00e5cc)
-![React](https://img.shields.io/badge/React-0d130d?style=flat-square&logo=react&logoColor=39ff6e)
-![Node.js](https://img.shields.io/badge/Node.js-0d130d?style=flat-square&logo=nodedotjs&logoColor=39ff6e)
-![NestJS](https://img.shields.io/badge/NestJS-0d130d?style=flat-square&logo=nestjs&logoColor=39ff6e)
-![FastAPI](https://img.shields.io/badge/FastAPI-0d130d?style=flat-square&logo=fastapi&logoColor=39ff6e)
-![Socket.io](https://img.shields.io/badge/Socket.io-0d130d?style=flat-square&logo=socket.io&logoColor=39ff6e)
-![Tailwind](https://img.shields.io/badge/Tailwind-0d130d?style=flat-square&logo=tailwindcss&logoColor=00e5cc)
-![Three.js](https://img.shields.io/badge/Three.js-0d130d?style=flat-square&logo=threedotjs&logoColor=4a6a4a)
-
-**Data & Infra**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d130d?style=flat-square&logo=postgresql&logoColor=00e5cc)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d130d?style=flat-square&logo=mongodb&logoColor=39ff6e)
-![Redis](https://img.shields.io/badge/Redis-0d130d?style=flat-square&logo=redis&logoColor=39ff6e)
-![Docker](https://img.shields.io/badge/Docker-0d130d?style=flat-square&logo=docker&logoColor=39ff6e)
-![AWS](https://img.shields.io/badge/AWS-0d130d?style=flat-square&logo=amazonaws&logoColor=c8a800)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-0d130d?style=flat-square&logo=kubernetes&logoColor=4a6a4a)
-![Prisma](https://img.shields.io/badge/Prisma-0d130d?style=flat-square&logo=prisma&logoColor=39ff6e)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d130d?style=flat-square&logo=githubactions&logoColor=39ff6e)
+<div align="center">
+  <img src="stack.svg" width="100%" alt="Stack"/>
+</div>
 
 ---
 
