@@ -18,25 +18,6 @@
 
 ---
 
-## `> whoami`
-
-<img align="right" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-```typescript
-const arnav = {
-  stack     : ["TypeScript", "Node", "React", "Python", "Go→learning"],
-  loves     : ["clean APIs", "fast deploys", "systems that scale"],
-  currently : "building prod-grade apps + sharpening DSA",
-  seeking   : "impactful SWE roles & serious collabs",
-  stance    : "strong opinions on React Hooks (ask me)",
-  fuel      : "☕  coffee  +  curiosity",
-};
-```
-
-<br clear="right"/>
-
----
-
 ## ⚡ Stack
 
 <div align="center">
