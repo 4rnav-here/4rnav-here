@@ -1,24 +1,18 @@
 <div align="center">
+  <img src="header.svg" width="100%" alt="Arnav — Full Stack Developer"/>
+</div>
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║  arnav@dev:~$  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░  72/100 EXP   ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=48&duration=1&pause=99999&color=39FF6E&center=true&vCenter=true&repeat=false&width=500&height=80&lines=ARNAV" alt="ARNAV" />
-
-<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=400&size=14&duration=3000&pause=800&color=00E5CC&center=true&vCenter=true&width=600&lines=full+stack+developer;building+scalable+systems+%26+AI-powered+apps;backend+%7C+cloud-native+%7C+open+source;turning+caffeine+into+working+software." alt="subtitle" />
+<div align="center">
+  <a href="https://github.com/4rnav-here">
+    <img src="https://komarev.com/ghpvc/?username=4rnav-here&style=flat-square&color=39ff6e&label=visitors&labelColor=0d130d"/>
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/%E2%97%8F_open_to_work-0d130d?style=flat-square"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/india_IN-0d130d?style=flat-square"/>
+</div>
 
 <br/>
-
-[![visitors](https://komarev.com/ghpvc/?username=4rnav-here&style=flat-square&color=39ff6e&label=visitors)](https://github.com/4rnav-here)
-&nbsp;
-![open to work](https://img.shields.io/badge/●_open_to_work-39ff6e?style=flat-square&labelColor=0d130d&color=0d130d&logoColor=39ff6e)
-&nbsp;
-![india](https://img.shields.io/badge/india_🇮🇳-0d130d?style=flat-square)
-
-</div>
 
 ---
 
@@ -77,15 +71,13 @@ const arnav = {
 ## `▸ activity`
 
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=4rnav-here&theme=dark&hide_border=true&background=080c08&ring=39ff6e&fire=00e5cc&currStreakLabel=39ff6e&sideLabels=4a6a4a&dates=2a3d2a&stroke=1f2e1f&currStreakNum=ffffff&sideNums=b8d4b8" width="52%"/>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=4rnav-here&theme=dark&hide_border=true&background=080c08&ring=39ff6e&fire=00e5cc&currStreakLabel=39ff6e&sideLabels=4a6a4a&dates=2a3d2a&stroke=1f2e1f&currStreakNum=ffffff&sideNums=b8d4b8" width="52%"/>
 </div>
 
+<br/>
+
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=4rnav-here&theme=high-contrast&hide_border=true&bg_color=080c08&color=4a6a4a&line=39ff6e&point=00e5cc&area=true&area_color=1a2a1a" width="97%"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=4rnav-here&theme=high-contrast&hide_border=true&bg_color=080c08&color=4a6a4a&line=39ff6e&point=00e5cc&area=true&area_color=1a2a1a" width="97%"/>
 </div>
 
 ---
@@ -94,17 +86,16 @@ const arnav = {
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/⬡_github-4rnav--here-0d130d?style=flat-square&logo=github&logoColor=39ff6e&labelColor=0d130d)](https://github.com/4rnav-here)
-[![Portfolio](https://img.shields.io/badge/⬡_portfolio-visit-0d130d?style=flat-square&logo=vercel&logoColor=00e5cc&labelColor=0d130d)](https://arnavtrivedi.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/⬡_linkedin-arnav_trivedi-0d130d?style=flat-square&logo=linkedin&logoColor=39ff6e&labelColor=0d130d)](https://linkedin.com/in/arnavtrivedi2004)
-[![Instagram](https://img.shields.io/badge/⬡_instagram-@arnav-0d130d?style=flat-square&logo=instagram&logoColor=39ff6e&labelColor=0d130d)](https://instagram.com/arnavtrivedi_)
-[![Email](https://img.shields.io/badge/⬡_email-say_hello-0d130d?style=flat-square&logo=gmail&logoColor=00e5cc&labelColor=0d130d)](mailto:arnavtrivediofficial@gmail.com)
+[![GitHub](https://img.shields.io/badge/%E2%AC%A1_github-4rnav--here-0d130d?style=flat-square&logo=github&logoColor=39ff6e&labelColor=0d130d)](https://github.com/4rnav-here)
+[![Portfolio](https://img.shields.io/badge/%E2%AC%A1_portfolio-visit-0d130d?style=flat-square&logo=vercel&logoColor=00e5cc&labelColor=0d130d)](https://arnavtrivedi.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/%E2%AC%A1_linkedin-arnav_trivedi-0d130d?style=flat-square&logo=linkedin&logoColor=39ff6e&labelColor=0d130d)](https://linkedin.com/in/arnavtrivedi2004)
+[![Instagram](https://img.shields.io/badge/%E2%AC%A1_instagram-%40arnav-0d130d?style=flat-square&logo=instagram&logoColor=39ff6e&labelColor=0d130d)](https://instagram.com/arnavtrivedi_)
+[![Email](https://img.shields.io/badge/%E2%AC%A1_email-say_hello-0d130d?style=flat-square&logo=gmail&logoColor=00e5cc&labelColor=0d130d)](mailto:arnavtrivediofficial@gmail.com)
+
+</div>
 
 <br/>
 
-```
-// if my code works, don't touch it.
-// if it doesn't — also don't touch it.
-```
-
+<div align="center">
+  <img src="footer.svg" width="100%" alt="footer"/>
 </div>
