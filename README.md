@@ -1,86 +1,110 @@
 <div align="center">
-  <img src="./header.svg" width="100%" alt="Arnav — terminal header"/>
-</div>
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║  arnav@dev:~$  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░  72/100 EXP   ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=48&duration=1&pause=99999&color=39FF6E&center=true&vCenter=true&repeat=false&width=500&height=80&lines=ARNAV" alt="ARNAV" />
+
+<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=400&size=14&duration=3000&pause=800&color=00E5CC&center=true&vCenter=true&width=600&lines=full+stack+developer;building+scalable+systems+%26+AI-powered+apps;backend+%7C+cloud-native+%7C+open+source;turning+caffeine+into+working+software." alt="subtitle" />
 
 <br/>
 
-<div align="center">
-  <a href="https://github.com/4rnav-here">
-    <img src="https://komarev.com/ghpvc/?username=4rnav-here&style=flat-square&color=7c3aed&label=visitors"/>
-  </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/-Open%20to%20Work-22c55e?style=flat-square"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/-India%20🇮🇳-0ea5e9?style=flat-square"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/B.Tech%20CS-Graduate-7c3aed?style=flat-square"/>
+[![visitors](https://komarev.com/ghpvc/?username=4rnav-here&style=flat-square&color=39ff6e&label=visitors)](https://github.com/4rnav-here)
+&nbsp;
+![open to work](https://img.shields.io/badge/●_open_to_work-39ff6e?style=flat-square&labelColor=0d130d&color=0d130d&logoColor=39ff6e)
+&nbsp;
+![india](https://img.shields.io/badge/india_🇮🇳-0d130d?style=flat-square)
+
 </div>
 
 ---
 
-## ⚡ Stack
+## `▸ whoami`
 
-<div align="center">
+```typescript
+// ~/arnav.ts · last updated 2025
+
+const arnav = {
+  stack     : ["TypeScript", "Node", "React", "Python", "Go→learning"],
+  loves     : ["clean APIs", "fast deploys", "systems that scale"],
+  currently : "building prod-grade apps + sharpening DSA",
+  seeking   : "impactful SWE roles & serious collabs",
+  stance    : "strong opinions on React Hooks (ask me)",
+  fuel      : "☕ coffee + curiosity",
+};
+```
+
+---
+
+## `▸ stack`
 
 **Languages**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d130d?style=flat-square&logo=typescript&logoColor=00e5cc)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d130d?style=flat-square&logo=javascript&logoColor=39ff6e)
+![Python](https://img.shields.io/badge/Python-0d130d?style=flat-square&logo=python&logoColor=39ff6e)
+![C++](https://img.shields.io/badge/C++-0d130d?style=flat-square&logo=cplusplus&logoColor=4a6a4a)
+![Java](https://img.shields.io/badge/Java-0d130d?style=flat-square&logo=openjdk&logoColor=4a6a4a)
+![Go](https://img.shields.io/badge/Go_(learning)-0d130d?style=flat-square&logo=go&logoColor=c8a800)
 
 **Frontend & Backend**
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-0d130d?style=flat-square&logo=nextdotjs&logoColor=00e5cc)
+![React](https://img.shields.io/badge/React-0d130d?style=flat-square&logo=react&logoColor=39ff6e)
+![Node.js](https://img.shields.io/badge/Node.js-0d130d?style=flat-square&logo=nodedotjs&logoColor=39ff6e)
+![NestJS](https://img.shields.io/badge/NestJS-0d130d?style=flat-square&logo=nestjs&logoColor=39ff6e)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d130d?style=flat-square&logo=fastapi&logoColor=39ff6e)
+![Socket.io](https://img.shields.io/badge/Socket.io-0d130d?style=flat-square&logo=socket.io&logoColor=39ff6e)
+![Tailwind](https://img.shields.io/badge/Tailwind-0d130d?style=flat-square&logo=tailwindcss&logoColor=00e5cc)
+![Three.js](https://img.shields.io/badge/Three.js-0d130d?style=flat-square&logo=threedotjs&logoColor=4a6a4a)
 
 **Data & Infra**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d130d?style=flat-square&logo=postgresql&logoColor=00e5cc)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d130d?style=flat-square&logo=mongodb&logoColor=39ff6e)
+![Redis](https://img.shields.io/badge/Redis-0d130d?style=flat-square&logo=redis&logoColor=39ff6e)
+![Docker](https://img.shields.io/badge/Docker-0d130d?style=flat-square&logo=docker&logoColor=39ff6e)
+![AWS](https://img.shields.io/badge/AWS-0d130d?style=flat-square&logo=amazonaws&logoColor=c8a800)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0d130d?style=flat-square&logo=kubernetes&logoColor=4a6a4a)
+![Prisma](https://img.shields.io/badge/Prisma-0d130d?style=flat-square&logo=prisma&logoColor=39ff6e)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d130d?style=flat-square&logo=githubactions&logoColor=39ff6e)
+
+---
+
+## `▸ activity`
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=4rnav-here&theme=dark&hide_border=true&background=080c08&ring=39ff6e&fire=00e5cc&currStreakLabel=39ff6e&sideLabels=4a6a4a&dates=2a3d2a&stroke=1f2e1f&currStreakNum=ffffff&sideNums=b8d4b8" width="52%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=4rnav-here&theme=high-contrast&hide_border=true&bg_color=080c08&color=4a6a4a&line=39ff6e&point=00e5cc&area=true&area_color=1a2a1a" width="97%"/>
 
 </div>
 
 ---
 
-## 📈 Activity
+## `▸ connect`
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=4rnav-here&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=94a3b8&dates=475569" width="54%"/>
-</div>
+
+[![GitHub](https://img.shields.io/badge/⬡_github-4rnav--here-0d130d?style=flat-square&logo=github&logoColor=39ff6e&labelColor=0d130d)](https://github.com/4rnav-here)
+[![Portfolio](https://img.shields.io/badge/⬡_portfolio-visit-0d130d?style=flat-square&logo=vercel&logoColor=00e5cc&labelColor=0d130d)](https://arnavtrivedi.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/⬡_linkedin-arnav_trivedi-0d130d?style=flat-square&logo=linkedin&logoColor=39ff6e&labelColor=0d130d)](https://linkedin.com/in/arnavtrivedi2004)
+[![Instagram](https://img.shields.io/badge/⬡_instagram-@arnav-0d130d?style=flat-square&logo=instagram&logoColor=39ff6e&labelColor=0d130d)](https://instagram.com/arnavtrivedi_)
+[![Email](https://img.shields.io/badge/⬡_email-say_hello-0d130d?style=flat-square&logo=gmail&logoColor=00e5cc&labelColor=0d130d)](mailto:arnavtrivediofficial@gmail.com)
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=4rnav-here&theme=tokyo-night&hide_border=true&bg_color=0d0d1a&color=a78bfa&line=7c3aed&point=ffffff&area=true&area_color=2d1b69" width="97%"/>
-</div>
+```
+// if my code works, don't touch it.
+// if it doesn't — also don't touch it.
+```
 
----
-
-## 🌐 Connect
-
-<div align="center">
-  <br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-4rnav--here-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/4rnav-here)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-a78bfa?style=for-the-badge&logo=vercel&logoColor=white)](https://arnavtrivedi.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arnav%20Trivedi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arnavtrivedi2004)
-[![Instagram](https://img.shields.io/badge/Instagram-@arnav-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/arnavtrivedi_)
-[![Email](https://img.shields.io/badge/Email-Say%20Hello-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arnavtrivediofficial@gmail.com)
-
-  <br/><br/>
-  <sub>⚡ <i>If my code works, don't touch it. If it doesn't — also don't touch it.</i></sub>
 </div>
