@@ -1,29 +1,20 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:0a0a0f,30:1a0533,70:2d1b69,100:0a0a0f&height=160&section=header&reversal=false&fontColor=ffffff" width="100%"/>
+  <img src="./header.svg" width="100%" alt="Arnav — terminal header"/>
 </div>
 
+<br/>
+
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=52&duration=1&pause=99999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=500&height=70&lines=ARNAV" />
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=52&duration=1&pause=99999&color=111111&center=true&vCenter=true&repeat=false&width=500&height=70&lines=ARNAV" />
-  </picture>
-
-  <br/>
-
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=3500&pause=800&color=A78BFA&center=true&vCenter=true&width=480&lines=Full+Stack+Developer;Building+scalable+systems+%26+AI-powered+apps;Backend+%7C+Cloud-Native+%7C+Open+Source;Turning+caffeine+into+working+software." alt="subtitle typing" />
-
-  <br/><br/>
-
   <a href="https://github.com/4rnav-here">
     <img src="https://komarev.com/ghpvc/?username=4rnav-here&style=flat-square&color=7c3aed&label=visitors"/>
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/-Open%20to%20Work-22c55e?style=flat-square&logo=circle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Open%20to%20Work-22c55e?style=flat-square"/>
   &nbsp;
   <img src="https://img.shields.io/badge/-India%20🇮🇳-0ea5e9?style=flat-square"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/B.Tech%20CS-Graduate-7c3aed?style=flat-square"/>
 </div>
-
-<br/>
 
 ---
 
@@ -111,8 +102,4 @@ const arnav = {
 
   <br/><br/>
   <sub>⚡ <i>If my code works, don't touch it. If it doesn't — also don't touch it.</i></sub>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:0a0a0f,30:1a0533,70:2d1b69,100:0a0a0f&height=100&section=footer&reversal=true" width="100%"/>
 </div>
