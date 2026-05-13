@@ -2,16 +2,6 @@
   <img src="header.svg" width="100%" alt="Arnav — Full Stack Developer"/>
 </div>
 
-<div align="center">
-  <a href="https://github.com/4rnav-here">
-    <img src="https://komarev.com/ghpvc/?username=4rnav-here&style=flat-square&color=39ff6e&label=visitors&labelColor=0d130d"/>
-  </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/%E2%97%8F_open_to_work-0d130d?style=flat-square"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/india_IN-0d130d?style=flat-square"/>
-</div>
-
 <br/>
 
 <div align="center">
