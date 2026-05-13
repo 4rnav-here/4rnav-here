@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=0:080c08,100:0d130d&height=120&text=ARNAV&fontColor=39ff6e&fontSize=72&fontAlign=50&fontAlignY=60&desc=full%20stack%20developer%20·%20scalable%20systems%20·%20AI-powered%20apps&descColor=00e5cc&descSize=13&descAlignY=82&stroke=1f2e1f&strokeWidth=1)
@@ -88,3 +87,4 @@ const arnav = {
 <div align="center">
 <sub><code>// if my code works, don't touch it. if it doesn't — also don't touch it.</code></sub>
 </div>
+```
