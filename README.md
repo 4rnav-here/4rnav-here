@@ -1,265 +1,129 @@
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║   > INITIALIZING PLAYER_PROFILE.exe ...                         ║
-║   > LOADING CHUNK: arnav@world ...                              ║
-║   > STATUS: [ OPEN TO WORK ] ██████████ 100%                    ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
-<h1 align="center">🧱 ARNAV — FULL STACK & AI DEVELOPER 🧱</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=d79921&height=145&section=header&text=hey%2C+i%27m+arnav&fontSize=52&fontColor=1d2021&fontAlignY=42&desc=full+stack+%2B+ai+developer+%7C+b.tech+cse+%7C+india&descSize=16&descAlignY=66&fontFamily=JetBrains+Mono"/>
 
 <p align="center">
-  <code>[ B.Tech CSE ]</code> &nbsp;|&nbsp;
-  <code>[ India 🇮🇳 ]</code> &nbsp;|&nbsp;
-  <code>[ Survival Mode: Job Hunt ]</code>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2500&pause=1000&color=D79921&center=true&vCenter=true&width=660&lines=Building+things+that+actually+work.;LLM+pipelines+%E2%86%92+CNNs+%E2%86%92+full-stack+apps.;Hardcore+mode%3A+active+job+hunt+%F0%9F%8E%AF;Open+to+SWE+%2F+Full-Stack+%2F+AI+roles." alt="Typing SVG" />
+</p>
+
+<br/>
+
+<p align="center">
+  <a href="https://github.com/4rnav-here/MyResume/blob/main/Arnav%20Trivedi.pdf">
+    <img src="https://img.shields.io/badge/Resume-Download-d79921?style=for-the-badge&logo=adobeacrobatreader&logoColor=1d2021&labelColor=282828" alt="Resume"/>
+  </a>
+  &nbsp;
+  <a href="https://arnavtrivedi.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-83a598?style=for-the-badge&logo=vercel&logoColor=1d2021&labelColor=282828" alt="Portfolio"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/4rnav-here">
+    <img src="https://img.shields.io/badge/GitHub-4rnav--here-ebdbb2?style=for-the-badge&logo=github&logoColor=1d2021&labelColor=282828" alt="GitHub"/>
+  </a>
 </p>
 
 ---
 
-```
-> whoami
-  A full-stack dev who treats every project like a new Minecraft world —
-  starts with one block, ends up building a city.
+### `$ whoami`
 
-> cat interests.txt
-  ├── Full-Stack Web Development
-  ├── AI-integrated Applications
-  ├── Scalable Systems & Architecture
-  └── Advanced DSA (currently mining this vein)
-```
+Full-stack + AI dev with real internship experience — I've shipped LLM pipelines, trained CNNs, and built backends that don't fall over at 3am. I think in systems, build with purpose, and have a dangerous habit of over-engineering weekend projects *(zero regrets)*.
+
+Currently hunting for **SWE / Full-Stack / AI roles** — open to anything where the work is real and the stack isn't prehistoric.
+
+> *"I don't just write code. I smelt it, forge it, and enchant it."*
 
 ---
 
-## 🪨 SPAWN POINT — ABOUT ME
+### `$ cat stack.json`
 
-```
-┌─[arnav@terminal]─[~/about]
-└──╼ $
-```
+**Languages**
 
-I'm a **full-stack + AI engineering student** with hands-on internship experience — from building LLM pipelines and training CNNs to crafting robust backend APIs and deploying containerized apps. I've shipped real features at a real company, with real metrics to show for it.
+![Python](https://img.shields.io/badge/Python-fabd2f?style=flat-square&logo=python&logoColor=282828)
+![TypeScript](https://img.shields.io/badge/TypeScript-fabd2f?style=flat-square&logo=typescript&logoColor=282828)
+![JavaScript](https://img.shields.io/badge/JavaScript-fabd2f?style=flat-square&logo=javascript&logoColor=282828)
+![C++](https://img.shields.io/badge/C++-fabd2f?style=flat-square&logo=cplusplus&logoColor=282828)
+![Java](https://img.shields.io/badge/Java-fabd2f?style=flat-square&logo=openjdk&logoColor=282828)
 
-I think in systems. I build with purpose. I ship things that work.
+**Frontend**
 
-Currently in **Hardcore Mode** — actively looking for **software engineering / full-stack / AI roles** where I can contribute to real products and grow fast.
+![React](https://img.shields.io/badge/React-83a598?style=flat-square&logo=react&logoColor=282828)
+![Next.js](https://img.shields.io/badge/Next.js-83a598?style=flat-square&logo=nextdotjs&logoColor=282828)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-83a598?style=flat-square&logo=tailwindcss&logoColor=282828)
+![Three.js](https://img.shields.io/badge/Three.js-83a598?style=flat-square&logo=threedotjs&logoColor=282828)
 
-> 💬 *"I don't just write code. I smelt it, forge it, and enchant it."*
+**Backend**
 
----
+![Node.js](https://img.shields.io/badge/Node.js-b8bb26?style=flat-square&logo=nodedotjs&logoColor=282828)
+![Express](https://img.shields.io/badge/Express-b8bb26?style=flat-square&logo=express&logoColor=282828)
+![NestJS](https://img.shields.io/badge/NestJS-b8bb26?style=flat-square&logo=nestjs&logoColor=282828)
+![FastAPI](https://img.shields.io/badge/FastAPI-b8bb26?style=flat-square&logo=fastapi&logoColor=282828)
 
-## ⚒️ THE CRAFTING TABLE — TECH STACK
+**Databases**
 
-```
-┌─[arnav@terminal]─[~/skills]
-└──╼ $ cat stack.json
-```
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-d3869b?style=flat-square&logo=postgresql&logoColor=282828)
+![MongoDB](https://img.shields.io/badge/MongoDB-d3869b?style=flat-square&logo=mongodb&logoColor=282828)
+![Redis](https://img.shields.io/badge/Redis-d3869b?style=flat-square&logo=redis&logoColor=282828)
 
-### 🖥️ Languages
-```
-[ C++ ]  [ C ]  [ Java ]  [ JavaScript ]  [ TypeScript ]
-[ Python ]  [ PHP ]  [ Bash ]  [ LaTeX ]
-```
+**Cloud & DevOps**
 
-### 🎨 Frontend
-```
-React · Next.js · Tailwind CSS · Three.js · Vite
-React Hook Form · React Router · Bootstrap · EJS · jQuery
-```
+![AWS](https://img.shields.io/badge/AWS-fe8019?style=flat-square&logo=amazonaws&logoColor=282828)
+![Docker](https://img.shields.io/badge/Docker-fe8019?style=flat-square&logo=docker&logoColor=282828)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-fe8019?style=flat-square&logo=kubernetes&logoColor=282828)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-fe8019?style=flat-square&logo=githubactions&logoColor=282828)
 
-### ⚙️ Backend
-```
-Node.js · Express.js · NestJS · FastAPI · Django
-Socket.io · tRPC · JWT Auth
-```
+**AI / ML**
 
-### 🗄️ Databases & ORMs
-```
-PostgreSQL · MongoDB · MySQL · Redis · DynamoDB · SQLite
-Prisma ORM
-```
-
-### ☁️ Cloud & Deployment
-```
-AWS · Google Cloud · Firebase · Vercel · Netlify
-Docker · Kubernetes
-```
-
-### 🔧 DevOps & Tooling
-```
-GitHub Actions · Jenkins · GitLab CI
-Prometheus · ESLint · Prettier · Postman · Swagger
-Bun · PNPM · Esbuild · Nodemon
-```
-
-### 🤖 AI / ML
-```
-PyTorch · TensorFlow · scikit-learn · LangChain · LangGraph
-LLaMA2 · Ollama · NumPy · Pandas · Streamlit · Power BI
-Model Training · Hyperparameter Tuning · CNNs · RAG · MCP
-```
+![PyTorch](https://img.shields.io/badge/PyTorch-8ec07c?style=flat-square&logo=pytorch&logoColor=282828)
+![LangChain](https://img.shields.io/badge/LangChain-8ec07c?style=flat-square&logo=langchain&logoColor=282828)
+![LangGraph](https://img.shields.io/badge/LangGraph-8ec07c?style=flat-square&logo=langchain&logoColor=282828)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-8ec07c?style=flat-square&logo=scikitlearn&logoColor=282828)
 
 ---
 
-## 💼 ENCHANTMENT TABLE — EXPERIENCE
+### `$ cat work_log.txt`
 
-```
-┌─[arnav@terminal]─[~/experience]
-└──╼ $ cat work_log.txt
-```
+**CivilBrains.ai** — Software Developer Intern &nbsp;`Apr – Sep 2025`
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║  [JOB]  CivilBrains.ai — Software Developer Intern              ║
-║         April 2025 → September 2025                             ║
-╠══════════════════════════════════════════════════════════════════╣
-║                                                                  ║
-║  ► Built an MCP server with RESTful API for automated            ║
-║    chatbot-database integration → cut manual data entry by 60%  ║
-║                                                                  ║
-║  ► Python + Pandas pipeline processing 10,000+ Excel rows,       ║
-║    integrated 4 LLMs via LangChain → data quality 65% → 92%    ║
-║                                                                  ║
-║  ► QA across 15+ features, logged 30+ critical defects,         ║
-║    error handling reduced production issues by 40%              ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+- MCP server + RESTful API for chatbot-database integration → manual data entry **↓ 60%**
+- Python/Pandas pipeline over 10K+ rows with 4 LLMs via LangChain → data quality **65% → 92%**
+- QA across 15+ features, 30+ critical defects logged → production issues **↓ 40%**
 
 ---
 
-## 🧪 THE NETHER — AI PROJECTS
+### `$ ls ./projects/`
 
-```
-┌─[arnav@terminal]─[~/ai_projects]
-└──╼ $ ls ./crafted/
-```
+**Leather Defect Classification** &nbsp;`PyTorch · Streamlit · scikit-learn`
+> CNN for automated defect detection — **85% validation accuracy**. Streamlit app with sub-2s real-time inference on 2,000+ augmented images.
 
-**🧠 Leather Defect Classification System** `Python · PyTorch · Streamlit · Scikit-learn`
-```
-  ├── CNN for automated defect detection → 85% validation accuracy
-  ├── Data augmentation on 2,000+ images → reduced overfitting by 15%
-  └── Streamlit app with real-time classification (sub-2s response)
-```
+**Offline LLM Chatbot** &nbsp;`LangChain · LLaMA2 · Ollama`
+> Privacy-first local AI — **90% response accuracy**, 30% lower latency vs cloud via Ollama runtime (1.2s avg). No data leaves your machine.
 
-**🤖 Offline Chatbot — LangChain + LLaMA2** `Python · LangChain · Ollama`
-```
-  ├── Privacy-first local AI using LLaMA2 → 90% response accuracy
-  ├── 4 contextual prompt chains + ConversationBufferMemory
-  └── Ollama runtime → 30% latency reduction (1.2s avg vs cloud)
-```
+**Task Manager** &nbsp;`MERN · JWT · bcrypt`
+> Full-stack app handling **500+ concurrent users** at 99.5% uptime. MongoDB indexing cut API response time by 40% (800ms → 480ms).
 
 ---
 
-## 🏗️ OVERWORLD — WEB PROJECTS
-
-```
-┌─[arnav@terminal]─[~/web_projects]
-└──╼ $ ls ./crafted/
-```
-
-**📋 Task Manager Application** `MongoDB · Express.js · React · Node.js · JWT`
-```
-  ├── Full-stack app handling 500+ concurrent users at 99.5% uptime
-  ├── JWT + bcrypt security architecture
-  └── MongoDB indexing → API response time cut 40% (800ms → 480ms)
-```
-
----
-
-## 🗺️ BIOMES EXPLORED — WHAT I BUILD
-
-```
-┌─[arnav@terminal]─[~/domains]
-└──╼ $ ls -la ./experience/
-```
-
-| Biome | What I Build There |
-|---|---|
-| 🌲 **Full-Stack Apps** | End-to-end web apps with real auth, real data, real UX |
-| 🏔️ **Backend Systems** | RESTful APIs, MCP servers, clean architecture |
-| 🌋 **AI & ML** | CNNs, LLM pipelines, RAG systems, local inference |
-| 🌊 **Cloud & DevOps** | Containerized deploys, CI/CD, Azure, Docker |
-| 🏜️ **Data Engineering** | Excel pipelines, Pandas, LangChain integrations |
-
----
-
-## 📊 STATS SCREEN
-
-```
-┌─[arnav@terminal]─[~/stats]
-└──╼ $ ./display_stats.sh
-```
-
-```
-╔══════════════════════════════════════════════╗
-║            PLAYER: Arnav                     ║
-║            CLASS:  Full Stack + AI Dev       ║
-║                                              ║
-║  STRENGTH        [Backend & APIs]  ████████  ║
-║  AGILITY         [Shipping Fast ]  ███████░  ║
-║  INTELLIGENCE    [AI/ML Systems ]  ████████  ║
-║  CHARISMA        [Product Think]   ███████░  ║
-║  ENDURANCE       [DSA Grind   ]    ██████░░  ║
-║                                              ║
-║  SPECIAL SKILL: LLM Pipeline Dev   ⚡        ║
-║  SPECIAL SKILL: CNN & Model Train  🧠        ║
-║  ACTIVE QUEST:  [ OPEN TO WORK ]   🎯        ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## 🧭 CURRENT QUESTS
-
-```
-┌─[arnav@terminal]─[~/quests]
-└──╼ $ cat active_quests.log
-```
-
-```
-[MAIN QUEST]  🎯  Land a software engineering / AI role
-[SIDE QUEST]  📐  Master system design & scalable architecture
-[SIDE QUEST]  🧮  Crack advanced DSA consistently
-[SIDE QUEST]  🚀  Ship more production-grade AI projects
-[COMPLETED]   ✅  Software Developer Internship @ CivilBrains.ai
-[COMPLETED]   ✅  Build a broad, battle-tested tech stack
-[COMPLETED]   ✅  Integrated LLMs into real production systems
-[COMPLETED]   ✅  IEEE General Secretary — led 500+ student events
-```
-
----
-
-## 📡 COORDINATES — FIND ME
-
-```
-┌─[arnav@terminal]─[~/socials]
-└──╼ $ ping arnav --all-interfaces
-```
-
-```
-GitHub     →  github.com/4rnav-here
-Portfolio  →  [ Building... 🔨 ]
-Discord    →  Connected
-Instagram  →  Connected
-Email      →  [ Check GitHub profile ]
-```
-
----
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║   > CONNECTION ESTABLISHED.                                      ║
-║   > ARNAV IS READY TO JOIN YOUR SERVER.                         ║
-║   > SEND A MESSAGE TO BEGIN.                                     ║
-║                                                                  ║
-║   $ _                                                            ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+### `$ ./display_stats.sh`
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=4rnav-here&style=flat-square&color=brightgreen" alt="Profile Views"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=4rnav-here&show_icons=true&theme=gruvbox&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4rnav-here&layout=compact&theme=gruvbox&hide_border=true&langs_count=8" />
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=4rnav-here&theme=gruvbox&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+</p>
+
+---
+
+### `$ ping arnav --all-interfaces`
+
+<p align="center">
+  <a href="YOUR_RESUME_LINK_HERE"><img src="https://img.shields.io/badge/Resume-d79921?style=flat-square&logo=adobeacrobatreader&logoColor=1d2021&labelColor=282828" /></a>
+  &nbsp;
+  <a href="YOUR_PORTFOLIO_LINK_HERE"><img src="https://img.shields.io/badge/Portfolio-83a598?style=flat-square&logo=vercel&logoColor=1d2021&labelColor=282828" /></a>
+  &nbsp;
+  <a href="https://github.com/4rnav-here"><img src="https://img.shields.io/badge/GitHub-ebdbb2?style=flat-square&logo=github&logoColor=1d2021&labelColor=282828" /></a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=4rnav-here&style=flat-square&color=d79921&labelColor=282828&label=profile+views" alt="Profile Views"/>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=d79921&height=100&section=footer"/>
