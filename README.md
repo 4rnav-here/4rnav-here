@@ -1,43 +1,51 @@
-<div align="center">
+<!-- HEADER: gif on left, name/links on right -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="50%" align="center">
+<img src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="340" alt="This is fine — the developer experience" />
+</td>
+<td width="50%" align="center">
 
 # Hey 👋, I'm Arnav
 
-### Full-Stack + AI Developer &nbsp;·&nbsp; B.Tech CSE &nbsp;·&nbsp; India
+### Full-Stack + AI Developer
+### B.Tech CSE &nbsp;·&nbsp; India
 
-</div>
+[![Resume](https://img.shields.io/badge/Resume-Download-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](YOUR_RESUME_LINK_HERE)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_LINK_HERE)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/4rnav-here)
+
+</td>
+</tr>
+</table>
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="340" alt="This is fine" />
+### 🧬 Who Am I
 
-**I build things that actually work.**
+> *Full-stack dev with AI superpowers. I build the frontend, own the backend, wrangle the LLMs, and ship the whole thing.*
 
-Not duct-taped demos. Not "works on my machine" prototypes.  
-Real systems — LLM pipelines, CNN classifiers, full-stack apps that stay alive at 3am.
+I don't specialise in one layer and pray the others hold. I do **the full loop** — from a clean UI to a battle-tested API to a pipeline that doesn't hallucinate in production. Real internship experience, real numbers, real systems.
 
-I think in architecture, ship in sprints, and have a dangerous habit of over-engineering weekend projects. Zero regrets.
+I've shipped **MCP servers**, trained **CNNs**, built backends stress-tested to **500+ concurrent users**, and run LLM pipelines that pushed data quality from 65% to 92%. I think in architecture, move fast without breaking things, and over-engineer side projects for sport.
 
-Currently hunting for **SWE / Full-Stack / AI roles** where the problems are hard, the stack isn't prehistoric, and the team actually gives a damn.
+Currently hunting for **SWE / Full-Stack / AI roles** — open to anything where the work is real, the team cares, and the stack isn't held together by prayer.
 
 > *"I don't just write code. I smelt it, forge it, and enchant it."*
-
-<br clear="right"/>
 
 ---
 
 ### ⚡ Quick Facts
 
-- 🔭 Shipped an **MCP server + LLM pipeline** at CivilBrains.ai — cut manual data entry by 60%
+- 🔭 Shipped an **MCP server + LLM pipeline** in production — 60% less manual data entry
 - 🧠 Trained CNNs. Wrangled LLaMA2. Built backends that don't cry under load
-- 🛠️ Backends, frontends, databases — I do the full loop
-- 🎯 Open to: SWE · Full-Stack · AI/ML Engineering roles
+- 🛠️ Backends, frontends, databases — I do the full loop, no handoffs needed
+- 🎯 Open to: **SWE · Full-Stack · AI/ML Engineering** roles
 - 📍 Based in India · Available for remote & relocation
 
 ---
 
 ### 🧰 The Stack
-
-> Colour-coded by layer. Because I'm that kind of developer.
 
 **Languages** — *the mediums*
 
@@ -80,34 +88,6 @@ Currently hunting for **SWE / Full-Stack / AI roles** where the problems are har
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-
----
-
-### 💼 Work Log
-
-**CivilBrains.ai** — Software Developer Intern &nbsp;`Apr – Sep 2025`
-
-Built an **MCP server + RESTful API** that wired a chatbot directly to the company database — manual data entry dropped 60%. Then ran a Python/Pandas pipeline across 10K+ rows through 4 LLMs via LangChain and pushed data quality from 65% → 92%. Also QA'd 15+ features, killed 30+ critical bugs, and kept production issues 40% quieter.
-
----
-
-### 🚀 Projects
-
-**Leather Defect Classification** &nbsp;`PyTorch · Streamlit · scikit-learn`
-
-CNN for automated defect detection trained on 2,000+ augmented images. Hit **85% validation accuracy** with sub-2s real-time inference through a Streamlit app. Because manually checking leather for flaws is exactly as fun as it sounds.
-
----
-
-**Offline LLM Chatbot** &nbsp;`LangChain · LLaMA2 · Ollama`
-
-Privacy-first local AI — **90% response accuracy**, 30% lower latency vs cloud, 1.2s avg response via Ollama runtime. Your data never leaves your machine. No subscriptions. No surveillance. Just a very smart local roommate.
-
----
-
-**Task Manager** &nbsp;`MERN · JWT · bcrypt`
-
-Full-stack app stress-tested to **500+ concurrent users** at 99.5% uptime. MongoDB indexing cut API response time by 40% (800ms → 480ms). Auth that doesn't roll over, performance that doesn't apologize.
 
 ---
 
