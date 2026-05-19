@@ -1,129 +1,146 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=cba6f7&height=145&section=header&text=hey%2C+i%27m+arnav&fontSize=52&fontColor=1e1e2e&fontAlignY=42&desc=full+stack+%2B+ai+developer+%7C+b.tech+cse+%7C+india&descSize=16&descAlignY=66&fontFamily=JetBrains+Mono"/>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2500&pause=1000&color=89B4FA&center=true&vCenter=true&width=660&lines=Building+things+that+actually+work.;LLM+pipelines+%E2%86%92+CNNs+%E2%86%92+full-stack+apps.;Hardcore+mode%3A+active+job+hunt+%F0%9F%8E%AF;Open+to+SWE+%2F+Full-Stack+%2F+AI+roles." alt="Typing SVG" />
-</p>
+# Hey 👋, I'm Arnav
 
-<br/>
+### Full-Stack + AI Developer &nbsp;·&nbsp; B.Tech CSE &nbsp;·&nbsp; India
 
-<p align="center">
-  <a href="YOUR_RESUME_LINK_HERE">
-    <img src="https://img.shields.io/badge/Resume-Download-f38ba8?style=for-the-badge&logo=adobeacrobatreader&logoColor=1e1e2e&labelColor=1e1e2e" alt="Resume"/>
-  </a>
-  &nbsp;
-  <a href="YOUR_PORTFOLIO_LINK_HERE">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-89b4fa?style=for-the-badge&logo=vercel&logoColor=1e1e2e&labelColor=1e1e2e" alt="Portfolio"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/4rnav-here">
-    <img src="https://img.shields.io/badge/GitHub-4rnav--here-cdd6f4?style=for-the-badge&logo=github&logoColor=1e1e2e&labelColor=1e1e2e" alt="GitHub"/>
-  </a>
-</p>
+</div>
 
 ---
 
-### `$ whoami`
+<img align="right" src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="340" alt="This is fine" />
 
-Full-stack + AI dev with real internship experience — I've shipped LLM pipelines, trained CNNs, and built backends that don't fall over at 3am. I think in systems, build with purpose, and have a dangerous habit of over-engineering weekend projects *(zero regrets)*.
+**I build things that actually work.**
 
-Currently hunting for **SWE / Full-Stack / AI roles** — open to anything where the work is real and the stack isn't prehistoric.
+Not duct-taped demos. Not "works on my machine" prototypes.  
+Real systems — LLM pipelines, CNN classifiers, full-stack apps that stay alive at 3am.
+
+I think in architecture, ship in sprints, and have a dangerous habit of over-engineering weekend projects. Zero regrets.
+
+Currently hunting for **SWE / Full-Stack / AI roles** where the problems are hard, the stack isn't prehistoric, and the team actually gives a damn.
 
 > *"I don't just write code. I smelt it, forge it, and enchant it."*
 
----
-
-### `$ cat stack.json`
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-f9e2af?style=flat-square&logo=python&logoColor=1e1e2e)
-![TypeScript](https://img.shields.io/badge/TypeScript-f9e2af?style=flat-square&logo=typescript&logoColor=1e1e2e)
-![JavaScript](https://img.shields.io/badge/JavaScript-f9e2af?style=flat-square&logo=javascript&logoColor=1e1e2e)
-![C++](https://img.shields.io/badge/C++-f9e2af?style=flat-square&logo=cplusplus&logoColor=1e1e2e)
-![Java](https://img.shields.io/badge/Java-f9e2af?style=flat-square&logo=openjdk&logoColor=1e1e2e)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-89b4fa?style=flat-square&logo=react&logoColor=1e1e2e)
-![Next.js](https://img.shields.io/badge/Next.js-89b4fa?style=flat-square&logo=nextdotjs&logoColor=1e1e2e)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-89b4fa?style=flat-square&logo=tailwindcss&logoColor=1e1e2e)
-![Three.js](https://img.shields.io/badge/Three.js-89b4fa?style=flat-square&logo=threedotjs&logoColor=1e1e2e)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-a6e3a1?style=flat-square&logo=nodedotjs&logoColor=1e1e2e)
-![Express](https://img.shields.io/badge/Express-a6e3a1?style=flat-square&logo=express&logoColor=1e1e2e)
-![NestJS](https://img.shields.io/badge/NestJS-a6e3a1?style=flat-square&logo=nestjs&logoColor=1e1e2e)
-![FastAPI](https://img.shields.io/badge/FastAPI-a6e3a1?style=flat-square&logo=fastapi&logoColor=1e1e2e)
-
-**Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-cba6f7?style=flat-square&logo=postgresql&logoColor=1e1e2e)
-![MongoDB](https://img.shields.io/badge/MongoDB-cba6f7?style=flat-square&logo=mongodb&logoColor=1e1e2e)
-![Redis](https://img.shields.io/badge/Redis-cba6f7?style=flat-square&logo=redis&logoColor=1e1e2e)
-
-**Cloud & DevOps**
-
-![AWS](https://img.shields.io/badge/AWS-fab387?style=flat-square&logo=amazonaws&logoColor=1e1e2e)
-![Docker](https://img.shields.io/badge/Docker-fab387?style=flat-square&logo=docker&logoColor=1e1e2e)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-fab387?style=flat-square&logo=kubernetes&logoColor=1e1e2e)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-fab387?style=flat-square&logo=githubactions&logoColor=1e1e2e)
-
-**AI / ML**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-94e2d5?style=flat-square&logo=pytorch&logoColor=1e1e2e)
-![LangChain](https://img.shields.io/badge/LangChain-94e2d5?style=flat-square&logo=langchain&logoColor=1e1e2e)
-![LangGraph](https://img.shields.io/badge/LangGraph-94e2d5?style=flat-square&logo=langchain&logoColor=1e1e2e)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-94e2d5?style=flat-square&logo=scikitlearn&logoColor=1e1e2e)
+<br clear="right"/>
 
 ---
 
-### `$ cat work_log.txt`
+### ⚡ Quick Facts
+
+- 🔭 Shipped an **MCP server + LLM pipeline** at CivilBrains.ai — cut manual data entry by 60%
+- 🧠 Trained CNNs. Wrangled LLaMA2. Built backends that don't cry under load
+- 🛠️ Backends, frontends, databases — I do the full loop
+- 🎯 Open to: SWE · Full-Stack · AI/ML Engineering roles
+- 📍 Based in India · Available for remote & relocation
+
+---
+
+### 🧰 The Stack
+
+> Colour-coded by layer. Because I'm that kind of developer.
+
+**Languages** — *the mediums*
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+**Frontend** — *what users actually see*
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+
+**Backend** — *where the real work happens*
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+**Databases** — *data has to live somewhere*
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+**Cloud & DevOps** — *so it stays up when you're asleep*
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+**AI / ML** — *the fun part*
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+---
+
+### 💼 Work Log
 
 **CivilBrains.ai** — Software Developer Intern &nbsp;`Apr – Sep 2025`
 
-- MCP server + RESTful API for chatbot-database integration → manual data entry **↓ 60%**
-- Python/Pandas pipeline over 10K+ rows with 4 LLMs via LangChain → data quality **65% → 92%**
-- QA across 15+ features, 30+ critical defects logged → production issues **↓ 40%**
+Built an **MCP server + RESTful API** that wired a chatbot directly to the company database — manual data entry dropped 60%. Then ran a Python/Pandas pipeline across 10K+ rows through 4 LLMs via LangChain and pushed data quality from 65% → 92%. Also QA'd 15+ features, killed 30+ critical bugs, and kept production issues 40% quieter.
 
 ---
 
-### `$ ls ./projects/`
+### 🚀 Projects
 
 **Leather Defect Classification** &nbsp;`PyTorch · Streamlit · scikit-learn`
-> CNN for automated defect detection — **85% validation accuracy**. Streamlit app with sub-2s real-time inference on 2,000+ augmented images.
+
+CNN for automated defect detection trained on 2,000+ augmented images. Hit **85% validation accuracy** with sub-2s real-time inference through a Streamlit app. Because manually checking leather for flaws is exactly as fun as it sounds.
+
+---
 
 **Offline LLM Chatbot** &nbsp;`LangChain · LLaMA2 · Ollama`
-> Privacy-first local AI — **90% response accuracy**, 30% lower latency vs cloud via Ollama runtime (1.2s avg). No data leaves your machine.
+
+Privacy-first local AI — **90% response accuracy**, 30% lower latency vs cloud, 1.2s avg response via Ollama runtime. Your data never leaves your machine. No subscriptions. No surveillance. Just a very smart local roommate.
+
+---
 
 **Task Manager** &nbsp;`MERN · JWT · bcrypt`
-> Full-stack app handling **500+ concurrent users** at 99.5% uptime. MongoDB indexing cut API response time by 40% (800ms → 480ms).
+
+Full-stack app stress-tested to **500+ concurrent users** at 99.5% uptime. MongoDB indexing cut API response time by 40% (800ms → 480ms). Auth that doesn't roll over, performance that doesn't apologize.
 
 ---
 
-### `$ ./display_stats.sh`
+### 📊 GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=4rnav-here&show_icons=true&theme=catppuccin_mocha&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4rnav-here&layout=compact&theme=catppuccin_mocha&hide_border=true&langs_count=8" />
-</p>
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=4rnav-here&show_icons=true&theme=github_dark&hide_border=false&count_private=true&include_all_commits=true" />
+  &nbsp;
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4rnav-here&layout=compact&theme=github_dark&hide_border=false&langs_count=8" />
+</div>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=4rnav-here&theme=catppuccin-mocha&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=4rnav-here&theme=github-dark-blue&hide_border=false&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+</div>
 
 ---
 
-### `$ ping arnav --all-interfaces`
+### 📬 Find Me
 
-<p align="center">
-  <a href="YOUR_RESUME_LINK_HERE"><img src="https://img.shields.io/badge/Resume-f38ba8?style=flat-square&logo=adobeacrobatreader&logoColor=1e1e2e&labelColor=1e1e2e" /></a>
-  &nbsp;
-  <a href="YOUR_PORTFOLIO_LINK_HERE"><img src="https://img.shields.io/badge/Portfolio-89b4fa?style=flat-square&logo=vercel&logoColor=1e1e2e&labelColor=1e1e2e" /></a>
-  &nbsp;
-  <a href="https://github.com/4rnav-here"><img src="https://img.shields.io/badge/GitHub-cdd6f4?style=flat-square&logo=github&logoColor=1e1e2e&labelColor=1e1e2e" /></a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=4rnav-here&style=flat-square&color=cba6f7&labelColor=1e1e2e&label=profile+views" alt="Profile Views"/>
-</p>
+<div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=cba6f7&height=100&section=footer"/>
+[![Resume](https://img.shields.io/badge/Resume-Download-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](YOUR_RESUME_LINK_HERE)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_LINK_HERE)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-4rnav--here-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/4rnav-here)
+
+![Profile Views](https://komarev.com/ghpvc/?username=4rnav-here&style=for-the-badge&color=blue&label=Profile+Views)
+
+</div>
+
+---
+
+<div align="center">
+  <sub>Available for hire · Open to remote · Will write good code for interesting problems</sub>
+</div>
