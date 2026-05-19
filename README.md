@@ -89,19 +89,6 @@ Currently hunting for **SWE / Full-Stack / AI roles** — open to anything where
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=4rnav-here&show_icons=true&theme=github_dark&hide_border=false&count_private=true&include_all_commits=true" />
-  &nbsp;
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4rnav-here&layout=compact&theme=github_dark&hide_border=false&langs_count=8" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=4rnav-here&theme=github-dark-blue&hide_border=false&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-</div>
 
 ---
 
