@@ -1,22 +1,22 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=d79921&height=145&section=header&text=hey%2C+i%27m+arnav&fontSize=52&fontColor=1d2021&fontAlignY=42&desc=full+stack+%2B+ai+developer+%7C+b.tech+cse+%7C+india&descSize=16&descAlignY=66&fontFamily=JetBrains+Mono"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=cba6f7&height=145&section=header&text=hey%2C+i%27m+arnav&fontSize=52&fontColor=1e1e2e&fontAlignY=42&desc=full+stack+%2B+ai+developer+%7C+b.tech+cse+%7C+india&descSize=16&descAlignY=66&fontFamily=JetBrains+Mono"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2500&pause=1000&color=D79921&center=true&vCenter=true&width=660&lines=Building+things+that+actually+work.;LLM+pipelines+%E2%86%92+CNNs+%E2%86%92+full-stack+apps.;Hardcore+mode%3A+active+job+hunt+%F0%9F%8E%AF;Open+to+SWE+%2F+Full-Stack+%2F+AI+roles." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2500&pause=1000&color=89B4FA&center=true&vCenter=true&width=660&lines=Building+things+that+actually+work.;LLM+pipelines+%E2%86%92+CNNs+%E2%86%92+full-stack+apps.;Hardcore+mode%3A+active+job+hunt+%F0%9F%8E%AF;Open+to+SWE+%2F+Full-Stack+%2F+AI+roles." alt="Typing SVG" />
 </p>
 
 <br/>
 
 <p align="center">
-  <a href="https://github.com/4rnav-here/MyResume/blob/main/Arnav%20Trivedi.pdf">
-    <img src="https://img.shields.io/badge/Resume-Download-d79921?style=for-the-badge&logo=adobeacrobatreader&logoColor=1d2021&labelColor=282828" alt="Resume"/>
+  <a href="YOUR_RESUME_LINK_HERE">
+    <img src="https://img.shields.io/badge/Resume-Download-f38ba8?style=for-the-badge&logo=adobeacrobatreader&logoColor=1e1e2e&labelColor=1e1e2e" alt="Resume"/>
   </a>
   &nbsp;
-  <a href="https://arnavtrivedi.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-83a598?style=for-the-badge&logo=vercel&logoColor=1d2021&labelColor=282828" alt="Portfolio"/>
+  <a href="YOUR_PORTFOLIO_LINK_HERE">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-89b4fa?style=for-the-badge&logo=vercel&logoColor=1e1e2e&labelColor=1e1e2e" alt="Portfolio"/>
   </a>
   &nbsp;
   <a href="https://github.com/4rnav-here">
-    <img src="https://img.shields.io/badge/GitHub-4rnav--here-ebdbb2?style=for-the-badge&logo=github&logoColor=1d2021&labelColor=282828" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-4rnav--here-cdd6f4?style=for-the-badge&logo=github&logoColor=1e1e2e&labelColor=1e1e2e" alt="GitHub"/>
   </a>
 </p>
 
@@ -36,45 +36,45 @@ Currently hunting for **SWE / Full-Stack / AI roles** — open to anything where
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-fabd2f?style=flat-square&logo=python&logoColor=282828)
-![TypeScript](https://img.shields.io/badge/TypeScript-fabd2f?style=flat-square&logo=typescript&logoColor=282828)
-![JavaScript](https://img.shields.io/badge/JavaScript-fabd2f?style=flat-square&logo=javascript&logoColor=282828)
-![C++](https://img.shields.io/badge/C++-fabd2f?style=flat-square&logo=cplusplus&logoColor=282828)
-![Java](https://img.shields.io/badge/Java-fabd2f?style=flat-square&logo=openjdk&logoColor=282828)
+![Python](https://img.shields.io/badge/Python-f9e2af?style=flat-square&logo=python&logoColor=1e1e2e)
+![TypeScript](https://img.shields.io/badge/TypeScript-f9e2af?style=flat-square&logo=typescript&logoColor=1e1e2e)
+![JavaScript](https://img.shields.io/badge/JavaScript-f9e2af?style=flat-square&logo=javascript&logoColor=1e1e2e)
+![C++](https://img.shields.io/badge/C++-f9e2af?style=flat-square&logo=cplusplus&logoColor=1e1e2e)
+![Java](https://img.shields.io/badge/Java-f9e2af?style=flat-square&logo=openjdk&logoColor=1e1e2e)
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-83a598?style=flat-square&logo=react&logoColor=282828)
-![Next.js](https://img.shields.io/badge/Next.js-83a598?style=flat-square&logo=nextdotjs&logoColor=282828)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-83a598?style=flat-square&logo=tailwindcss&logoColor=282828)
-![Three.js](https://img.shields.io/badge/Three.js-83a598?style=flat-square&logo=threedotjs&logoColor=282828)
+![React](https://img.shields.io/badge/React-89b4fa?style=flat-square&logo=react&logoColor=1e1e2e)
+![Next.js](https://img.shields.io/badge/Next.js-89b4fa?style=flat-square&logo=nextdotjs&logoColor=1e1e2e)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-89b4fa?style=flat-square&logo=tailwindcss&logoColor=1e1e2e)
+![Three.js](https://img.shields.io/badge/Three.js-89b4fa?style=flat-square&logo=threedotjs&logoColor=1e1e2e)
 
 **Backend**
 
-![Node.js](https://img.shields.io/badge/Node.js-b8bb26?style=flat-square&logo=nodedotjs&logoColor=282828)
-![Express](https://img.shields.io/badge/Express-b8bb26?style=flat-square&logo=express&logoColor=282828)
-![NestJS](https://img.shields.io/badge/NestJS-b8bb26?style=flat-square&logo=nestjs&logoColor=282828)
-![FastAPI](https://img.shields.io/badge/FastAPI-b8bb26?style=flat-square&logo=fastapi&logoColor=282828)
+![Node.js](https://img.shields.io/badge/Node.js-a6e3a1?style=flat-square&logo=nodedotjs&logoColor=1e1e2e)
+![Express](https://img.shields.io/badge/Express-a6e3a1?style=flat-square&logo=express&logoColor=1e1e2e)
+![NestJS](https://img.shields.io/badge/NestJS-a6e3a1?style=flat-square&logo=nestjs&logoColor=1e1e2e)
+![FastAPI](https://img.shields.io/badge/FastAPI-a6e3a1?style=flat-square&logo=fastapi&logoColor=1e1e2e)
 
 **Databases**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-d3869b?style=flat-square&logo=postgresql&logoColor=282828)
-![MongoDB](https://img.shields.io/badge/MongoDB-d3869b?style=flat-square&logo=mongodb&logoColor=282828)
-![Redis](https://img.shields.io/badge/Redis-d3869b?style=flat-square&logo=redis&logoColor=282828)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-cba6f7?style=flat-square&logo=postgresql&logoColor=1e1e2e)
+![MongoDB](https://img.shields.io/badge/MongoDB-cba6f7?style=flat-square&logo=mongodb&logoColor=1e1e2e)
+![Redis](https://img.shields.io/badge/Redis-cba6f7?style=flat-square&logo=redis&logoColor=1e1e2e)
 
 **Cloud & DevOps**
 
-![AWS](https://img.shields.io/badge/AWS-fe8019?style=flat-square&logo=amazonaws&logoColor=282828)
-![Docker](https://img.shields.io/badge/Docker-fe8019?style=flat-square&logo=docker&logoColor=282828)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-fe8019?style=flat-square&logo=kubernetes&logoColor=282828)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-fe8019?style=flat-square&logo=githubactions&logoColor=282828)
+![AWS](https://img.shields.io/badge/AWS-fab387?style=flat-square&logo=amazonaws&logoColor=1e1e2e)
+![Docker](https://img.shields.io/badge/Docker-fab387?style=flat-square&logo=docker&logoColor=1e1e2e)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-fab387?style=flat-square&logo=kubernetes&logoColor=1e1e2e)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-fab387?style=flat-square&logo=githubactions&logoColor=1e1e2e)
 
 **AI / ML**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-8ec07c?style=flat-square&logo=pytorch&logoColor=282828)
-![LangChain](https://img.shields.io/badge/LangChain-8ec07c?style=flat-square&logo=langchain&logoColor=282828)
-![LangGraph](https://img.shields.io/badge/LangGraph-8ec07c?style=flat-square&logo=langchain&logoColor=282828)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-8ec07c?style=flat-square&logo=scikitlearn&logoColor=282828)
+![PyTorch](https://img.shields.io/badge/PyTorch-94e2d5?style=flat-square&logo=pytorch&logoColor=1e1e2e)
+![LangChain](https://img.shields.io/badge/LangChain-94e2d5?style=flat-square&logo=langchain&logoColor=1e1e2e)
+![LangGraph](https://img.shields.io/badge/LangGraph-94e2d5?style=flat-square&logo=langchain&logoColor=1e1e2e)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-94e2d5?style=flat-square&logo=scikitlearn&logoColor=1e1e2e)
 
 ---
 
@@ -104,12 +104,12 @@ Currently hunting for **SWE / Full-Stack / AI roles** — open to anything where
 ### `$ ./display_stats.sh`
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=4rnav-here&show_icons=true&theme=gruvbox&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4rnav-here&layout=compact&theme=gruvbox&hide_border=true&langs_count=8" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=4rnav-here&show_icons=true&theme=catppuccin_mocha&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4rnav-here&layout=compact&theme=catppuccin_mocha&hide_border=true&langs_count=8" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=4rnav-here&theme=gruvbox&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=4rnav-here&theme=catppuccin-mocha&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </p>
 
 ---
@@ -117,13 +117,13 @@ Currently hunting for **SWE / Full-Stack / AI roles** — open to anything where
 ### `$ ping arnav --all-interfaces`
 
 <p align="center">
-  <a href="YOUR_RESUME_LINK_HERE"><img src="https://img.shields.io/badge/Resume-d79921?style=flat-square&logo=adobeacrobatreader&logoColor=1d2021&labelColor=282828" /></a>
+  <a href="YOUR_RESUME_LINK_HERE"><img src="https://img.shields.io/badge/Resume-f38ba8?style=flat-square&logo=adobeacrobatreader&logoColor=1e1e2e&labelColor=1e1e2e" /></a>
   &nbsp;
-  <a href="YOUR_PORTFOLIO_LINK_HERE"><img src="https://img.shields.io/badge/Portfolio-83a598?style=flat-square&logo=vercel&logoColor=1d2021&labelColor=282828" /></a>
+  <a href="YOUR_PORTFOLIO_LINK_HERE"><img src="https://img.shields.io/badge/Portfolio-89b4fa?style=flat-square&logo=vercel&logoColor=1e1e2e&labelColor=1e1e2e" /></a>
   &nbsp;
-  <a href="https://github.com/4rnav-here"><img src="https://img.shields.io/badge/GitHub-ebdbb2?style=flat-square&logo=github&logoColor=1d2021&labelColor=282828" /></a>
+  <a href="https://github.com/4rnav-here"><img src="https://img.shields.io/badge/GitHub-cdd6f4?style=flat-square&logo=github&logoColor=1e1e2e&labelColor=1e1e2e" /></a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=4rnav-here&style=flat-square&color=d79921&labelColor=282828&label=profile+views" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=4rnav-here&style=flat-square&color=cba6f7&labelColor=1e1e2e&label=profile+views" alt="Profile Views"/>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=d79921&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=cba6f7&height=100&section=footer"/>
