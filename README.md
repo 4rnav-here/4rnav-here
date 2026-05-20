@@ -100,10 +100,11 @@ Currently hunting for **SWE / Full-Stack / AI roles** — open to anything where
 &nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_LINK_HERE)
 &nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arnav%20Trivedi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnavtrivedi2004/)
+&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-4rnav--here-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/4rnav-here)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=4rnav-here&style=for-the-badge&color=blue&label=Profile+Views)
-
 </div>
 
 ---
